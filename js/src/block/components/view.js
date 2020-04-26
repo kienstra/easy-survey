@@ -7,7 +7,7 @@ import { __ } from '@wordpress/i18n';
 /**
  * Internal dependencies
  */
-import { BLOCK_CLASS } from '../constants';
+import { BLOCK_CLASS } from '../settings';
 
 /**
  * The Edit component for the block.
