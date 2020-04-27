@@ -8,7 +8,7 @@ import { fireEvent, render, screen } from '@testing-library/react';
  * Internal dependencies
  */
 import View from '../view';
-import { BLOCK_CLASS } from './../../constants';
+import { BLOCK_CLASS } from './../../settings';
 
 /**
  * Sets up the test by rendering the component.

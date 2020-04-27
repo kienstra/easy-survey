@@ -9,7 +9,7 @@ import { render } from '@wordpress/element';
  * Internal dependencies
  */
 import View from './components/view';
-import { BLOCK_CLASS } from './constants';
+import { BLOCK_CLASS } from './settings';
 
 // Finds the block containers, and render the React component in them.
 document.querySelectorAll( `.${ BLOCK_CLASS }` ).forEach( ( blockContainer ) => {

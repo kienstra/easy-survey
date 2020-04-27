@@ -9,7 +9,6 @@ module.exports = {
 		'<rootDir>/.git',
 		'<rootDir>/node_modules',
 	],
-	reporters: [ [ 'jest-silent-reporter', { useDots: true } ] ],
 	transformIgnorePatterns: [
 		'node_modules/(?!@wordpress/blocks/src/store)',
 	],

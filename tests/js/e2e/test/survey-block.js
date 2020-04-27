@@ -62,6 +62,5 @@ describe( 'SurveyBlock', () => {
 		const expectedBackgroundColor = firstColorPickerOption.style.color;
 		expect( firstOption.style.backgroundColor ).toStrictEqual( expectedBackgroundColor );
 		expect( secondOption.style.backgroundColor ).toStrictEqual( expectedBackgroundColor );
-		debug();
 	} );
 } );
