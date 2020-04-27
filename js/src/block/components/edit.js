@@ -12,7 +12,7 @@ import { ContrastChecker, PanelColorSettings, InspectorControls, RichText } from
 /**
  * Internal dependencies
  */
-import { BLOCK_CLASS } from '../constants';
+import { BLOCK_CLASS } from '../settings';
 
 /**
  * The Edit component for the block.
