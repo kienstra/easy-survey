@@ -14,7 +14,7 @@ export const SETTINGS = {
 	title: __( 'Easy Survey', 'easy-survey' ),
 	description: __( 'A simple survey, so you get quick feedback', 'easy-survey' ),
 	category: 'common',
-	icon: 'table',
+	icon: 'button',
 	keywords: [
 		__( 'Survey', 'easy-survey' ),
 	],
