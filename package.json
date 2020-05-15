@@ -27,7 +27,7 @@
     "@wordpress/components": "9.4.1",
     "@wordpress/dom-ready": "2.9.0",
     "@wordpress/editor": "9.14.1",
-    "@wordpress/element": "2.13.1",
+    "@wordpress/element": "2.14.0",
     "@wordpress/eslint-plugin": "3.3.0",
     "@wordpress/i18n": "3.11.0",
     "@wordpress/rich-text": "3.14.1",
