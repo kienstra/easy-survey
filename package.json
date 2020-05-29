@@ -30,7 +30,7 @@
     "@wordpress/element": "2.13.1",
     "@wordpress/eslint-plugin": "3.3.0",
     "@wordpress/i18n": "3.11.0",
-    "@wordpress/rich-text": "3.14.1",
+    "@wordpress/rich-text": "3.17.0",
     "@wordpress/scripts": "8.0.1",
     "classnames": "2.2.6",
     "eslint": "6.8.0",
