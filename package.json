@@ -26,7 +26,7 @@
     "@testing-library/react": "10.0.3",
     "@wordpress/components": "9.4.1",
     "@wordpress/dom-ready": "2.9.0",
-    "@wordpress/editor": "9.14.1",
+    "@wordpress/editor": "9.18.0",
     "@wordpress/element": "2.13.1",
     "@wordpress/eslint-plugin": "3.3.0",
     "@wordpress/i18n": "3.11.0",
