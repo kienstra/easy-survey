@@ -30,7 +30,7 @@
     "@wordpress/editor": "9.17.0",
     "@wordpress/element": "2.14.0",
     "@wordpress/env": "1.4.0",
-    "@wordpress/eslint-plugin": "6.1.0",
+    "@wordpress/eslint-plugin": "7.1.0",
     "@wordpress/i18n": "3.13.0",
     "@wordpress/jest-puppeteer-axe": "1.8.0",
     "@wordpress/rich-text": "3.17.0",
